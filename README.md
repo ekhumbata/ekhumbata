@@ -1,16 +1,21 @@
-### Hi there 👋
+- ⚡ Hi, I'm Eric!
+- 🤖 I'm interested in robotics, solar energy, and anything software/hardware related
+- 🎯 I love planning amazing hackathons! 
+- 📫 You can reach me at khumbata@ualberta.ca or https://www.linkedin.com/in/eric-khumbata/
 
 <!--
-**ekhumbata/ekhumbata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class ComputerEngineer:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Eric Khumbata"
+        self.role = "Computer Engineer"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 -->
